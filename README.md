@@ -51,6 +51,8 @@ In the Income Statement, we can find that the Sales is in increasing trend but e
 
 <img width="1500" height="438" alt="image" src="https://github.com/user-attachments/assets/7cd065a0-acd8-4a22-a45a-d481410f381a" />
 
+Balance Sheet gives an idea of Assets & Liabilities So that we can evaluate the Net Worth.
+
 ## 3. Revenue Projections & Growth Assumptions
 
 <img width="1492" height="241" alt="image" src="https://github.com/user-attachments/assets/02f3c67c-48d9-46f9-bdbd-98e324554cbe" />
