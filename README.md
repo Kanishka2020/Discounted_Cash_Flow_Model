@@ -41,15 +41,17 @@ Economic outlook
 
 #### For this we should starts with Income Statement & Balance Sheet then Revenue Assumptions & Growth Projections:
 
-Income Statement
+## 1. Income Statement
 
 <img width="1253" height="689" alt="image" src="https://github.com/user-attachments/assets/0f7f6b12-2117-4239-b4c9-a04fbd9e64d3" />
 
-Balance Sheet
+In the Income Statement, we can find that the Sales is in increasing trend but expenses are not increasing that much.
+
+## 2. Balance Sheet
 
 <img width="1500" height="438" alt="image" src="https://github.com/user-attachments/assets/7cd065a0-acd8-4a22-a45a-d481410f381a" />
 
-Revenue Projections & Growth Assumptions
+## 3. Revenue Projections & Growth Assumptions
 
 <img width="1492" height="241" alt="image" src="https://github.com/user-attachments/assets/02f3c67c-48d9-46f9-bdbd-98e324554cbe" />
 
