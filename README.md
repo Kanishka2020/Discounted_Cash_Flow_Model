@@ -57,6 +57,17 @@ Balance Sheet gives an idea of Assets & Liabilities So that we can evaluate the 
 
 <img width="1492" height="241" alt="image" src="https://github.com/user-attachments/assets/02f3c67c-48d9-46f9-bdbd-98e324554cbe" />
 
+## Free Cash Flow Projections
+
+<img width="1491" height="349" alt="image" src="https://github.com/user-attachments/assets/6ae5f8f7-e05b-49b5-8241-fc1ae0e66d3d" />
+
+## WACC Calculation
+
+<img width="863" height="445" alt="image" src="https://github.com/user-attachments/assets/307c9c9c-2420-4266-91cd-8ee36a2bbfe8" />
+
+
+
+
 
 
 
