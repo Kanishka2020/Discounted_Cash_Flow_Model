@@ -57,18 +57,24 @@ Balance Sheet gives an idea of Assets & Liabilities So that we can evaluate the 
 
 <img width="1492" height="241" alt="image" src="https://github.com/user-attachments/assets/02f3c67c-48d9-46f9-bdbd-98e324554cbe" />
 
-## Free Cash Flow Projections
+## 4. Free Cash Flow Projections
 
 <img width="1491" height="349" alt="image" src="https://github.com/user-attachments/assets/6ae5f8f7-e05b-49b5-8241-fc1ae0e66d3d" />
 
-## WACC Calculation
+## 5. WACC Calculation
 
 <img width="863" height="445" alt="image" src="https://github.com/user-attachments/assets/307c9c9c-2420-4266-91cd-8ee36a2bbfe8" />
 
+## 6. Terminal Value Calculation
 
+<img width="864" height="149" alt="image" src="https://github.com/user-attachments/assets/03dc8cf1-65bc-4ce3-a47c-781b6b182d4c" />
 
+## 7. Present Value Calculation
 
+<img width="1299" height="152" alt="image" src="https://github.com/user-attachments/assets/777e1bb3-bf27-4a34-8822-d200d2d44bb3" />
 
+## 8. DCF Valuation Summary
 
+<img width="866" height="426" alt="image" src="https://github.com/user-attachments/assets/8dc2ac34-edf6-4423-9eed-e9dfb6de44c6" />
 
 
