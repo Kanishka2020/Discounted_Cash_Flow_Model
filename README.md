@@ -37,7 +37,7 @@ There are two main versions:
 Most common in practice: FCFF model
 
 Step-by-Step DCF Valuation (Detailed)
-### 1️⃣ Project Financial Statements
+### Project Financial Statements
 
 #### Step I: Forecast Financials (5–10 years)
 
